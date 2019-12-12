@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "513173610067",
+    "firebase_url": "https://nulp-mobile-42035.firebaseio.com",
+    "project_id": "nulp-mobile-42035",
+    "storage_bucket": "nulp-mobile-42035.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513173610067:android:5eff95f5fb2187a153f0a6",
+        "android_client_info": {
+          "package_name": "com.example.nulp_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513173610067-m4pspen0h06bdirbpsns2mfo0i3qvo0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeE-L9UFvjfYAaQoxOmsWE7ZzQYmdMXLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513173610067-m4pspen0h06bdirbpsns2mfo0i3qvo0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
